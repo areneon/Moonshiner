@@ -1,0 +1,8 @@
+[submodule "EurekaServer"]
+	path = EurekaServer
+	url = https://github.com/areneon/EurekaServer
+[submodule "OrganizerMain"]
+	path = OrganizerMain
+	url = https://github.com/areneon/OrganizerMain
+[submodule "Moonshiner"]
+	path = Moonshinerurl = https://github.com/areneon/Moonshiner
